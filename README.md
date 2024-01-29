@@ -1,1 +1,1 @@
-hii thanks 
+So here was a data set of superstore sales details there was all types of columns and column was name address payment mode and everything details in a file I have to identify what is the profit and loss of a company so I make a project which is online sales dashboard using a power bi here we can analyze of any customer details particular time and with any data
